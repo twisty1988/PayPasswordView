@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PayPasswordView">
+        <attr name="ppv_length" format="integer"/>
+        <attr name="ppv_borderColor" format="color"/>
+        <attr name="ppv_dotColor" format="color"/>
+        <attr name="ppv_autoClear" format="boolean"/>
+    </declare-styleable>
+</resources>
